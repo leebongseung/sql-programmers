@@ -43,7 +43,7 @@
 
 <details> 
 <summary>
-<a href="">대여 기록이 존재하는 자동차 리스트 구하기</a>
+<a href="src/string_date/157341.sql">대여 기록이 존재하는 자동차 리스트 구하기</a>
 </summary> 
 <ul>
 <li>배운점<ul>
@@ -60,7 +60,7 @@
 <details>
 
 <summary>
-<a href="">[Level4] 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a>
+<a href="src/join/157339.sql">[Level4] 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a>
 </summary> 
 <ul>
 <li>배운점<ul>
