@@ -52,13 +52,38 @@
 </li>
 <li>배운 키워드</li>
 </ul>
+</details>
+
+
+<details> 
+<summary>
+<a href="src/string_date/59046.sql">루시와 엘라 찾기</a>
+</summary>
+</details>
+
+<details> 
+<summary>
+<a href="src/string_date/59046.sql">오랜 기간 보호한 동물(2)</a>
+</summary>
+<ul>
+<li><p>배운점</p>
+<ul>
+<li>날짜 비교할때 단순히 - 연산을 하면 알수없는 값이 나온다. 그렇기에 DateDiff를 이용하는 것이 좋음</li>
+</ul>
+</li>
+<li><p>키워드</p>
+<ul>
+<li>DateDiff</li>
+</ul>
+</li>
+</ul>
 
 </details>
+
 
 ### 2. JOIN
 
 <details>
-
 <summary>
 <a href="src/join/157339.sql">[Level4] 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a>
 </summary> 
@@ -70,6 +95,27 @@
 </li>
 <li>배운 키워드<ul>
 <li>BETWEEN (A) AND (B)</li>
+</ul>
+</li>
+</ul>
+</details>
+
+### 3. Group By
+
+<details>
+<summary>
+<a href="src/group_by/131532.sql">년, 월, 성별 별 상품 구매 회원 수 구하기</a>
+</summary> 
+<ul>
+<li><p>배운점</p>
+<ul>
+<li>USER_INFO 테이블과 ONLINE_SALE 테이블 두가지를 조인하면서 ONLINE_SALE 의 user_id가 여러번 중복될 수 있다는 사실을 알았다</li>
+<li>해결 방법으로 COUNT안에 DISTICNT info.USER_ID로 해소하면서 해결가능 했다.</li>
+</ul>
+</li>
+<li><p>키워드</p>
+<ul>
+<li>COUNT와 DISTICNT</li>
 </ul>
 </li>
 </ul>
