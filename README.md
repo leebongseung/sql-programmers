@@ -100,6 +100,23 @@
 </ul>
 </details>
 
+<details>
+<summary>
+<a href="src/join/131124.sql">[Level4] 그룹별 조건에 맞는 식당 목록 출력하기</a>
+</summary> 
+<ul>
+<li>배운점<ul>
+<li>서브쿼리에서 댓글 많이 단거 하나를 조회하기 위해서 MEMBER_ID를 그룹으로 묶고 결과에 대해서 조건을 사용하는 부분에서는 무조건 GROUP BY를 사용해야함을 깨달았다.</li>
+</ul>
+</li>
+<li>키워드<ul>
+<li>GROUP BY =&gt; ORDER BY COUNT(*)</li>
+</ul>
+</li>
+</ul>
+
+</details>
+
 ### 3. Group By
 
 <details>
