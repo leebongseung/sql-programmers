@@ -138,3 +138,24 @@
 </ul>
 
 </details>
+
+### 4. Summer/Winter Coding(2019)
+<details>
+<summary>
+<a href="src/summer_winter_coding2019/62284.sql">우유와 요거트가 담긴 장바구니</a>
+</summary> 
+<ul>
+<li><p>배운점</p>
+<ul>
+<li>서브쿼리 보단 inner join 이나 group by having으로 푸는 것이 인덱스를 더 적절하게 활용가능 하다는 장점이 있다,</li>
+</ul>
+</li>
+<li><p>어려웠던 부분</p>
+<ul>
+<li>서브쿼리를 왜 쓰면 안되지 라는 고민을 한참 했는데 ChatGPT 답변으로는 서브 쿼리가 인덱싱이 이루어지지 않는다면 성능에 크나큰 문제가 존재한다고 한다. </li>
+</ul>
+</li>
+</ul>
+
+
+</details>
